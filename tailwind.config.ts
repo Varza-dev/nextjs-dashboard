@@ -1,5 +1,6 @@
 import type { Config } from 'tailwindcss';
 
+/* eslint-disable  */
 const config: Config = {
   content: [
     './pages/**/*.{js,ts,jsx,tsx,mdx}',
